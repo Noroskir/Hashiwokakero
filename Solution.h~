@@ -1,0 +1,15 @@
+// Copyright 2018, Jonas Matuszak <jonas.matuszak@pluto.uni-freiburg.de>
+// Using various code snippets kindy provided by
+// http://ad-wiki.informatik.uni-freiburg.de/teaching
+
+#ifndef SOLUTION_H_
+#define SOLUTION_H_
+
+class Solution {
+ public:
+  Solution();
+  
+ private:
+};
+
+#endif // SOLUTION_H_
